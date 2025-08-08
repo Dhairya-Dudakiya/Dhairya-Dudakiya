@@ -36,13 +36,6 @@ I’m a final year **Computer Engineering** student passionate about building im
 
 ---
 
-## 📈 GitHub Stats
-
-![Dhairya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhairya-Dudakiya&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhairya-Dudakiya&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-dudakiya)
